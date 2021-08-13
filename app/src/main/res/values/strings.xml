@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">编写演示</string>
+
+    <!-- Accessibility strings -->
+    <string name="a11y_bottom_navigation_bar">带有操作的底部导航栏</string>
+
+    <string name="navigation_item_home">家</string>
+    <string name="navigation_item_widgets">小工具</string>
+    <string name="navigation_item_animation">Anim</string>
+    <string name="navigation_item_demoui">DemoUI</string>
+    <string name="navigation_item_profile">模板</string>
+    <string name="title_activity_list_view">我的撰写应用</string>
+    <string name="title_activity_dialogs">Dialogs Activity</string>
+    <string name="title_activity_dynamic_u_i">My Compose App</string>
+    <string name="title_activity_demo_uihost">DemoUI</string>
+
+    <string name="test_adbanner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_admob_id">ca-app-pub-5207778306358129~3940384518</string>
+    <string name="title_activity_advance_lists">My Compose App</string>
+    <string name="title_activity_custom_fling">Custom Fling</string>
+    <string name="title_activity_custom_fling_settings">Custom Fling Settings</string>
+    <string name="title_activity_templates">模板</string>
+</resources>
